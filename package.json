@@ -64,7 +64,7 @@
     "mongoose": "^4.11.5",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
-    "passport-local-mongoose": "^4.1.0",
+    "passport-local-mongoose": "^6.0.0",
     "prop-types": "^15.5.10",
     "react": "^15.6.1",
     "react-bootstrap": "^0.31.2",
@@ -81,6 +81,6 @@
     "rimraf": "^2.6.1",
     "style-loader": "^0.18.2",
     "url-loader": "^0.5.9",
-    "webpack": "^3.4.1"
+    "webpack": "^4.0.0"
   }
 }
